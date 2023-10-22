@@ -1,4 +1,4 @@
-<h1>Hi, I'm Porscha! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/porscha-lucio/">IT Support Specialist</a>, <a 
+<h1>Hi, I'm Porscha! <br/><a href="https://github.com/polucio">IT Support Specialistr</a>, <a href="www.linkedin.com/in/porscha-lucio/">
 
 <h2>👨‍💻 General Projects:</h2>
 
