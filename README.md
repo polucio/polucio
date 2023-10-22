@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 General Projects:</h2>
 
+- <b>Python</b>
   - [Mission Python](https://github.com/polucio/Mission-Python)
 
 <h2>📺 Popular YouTube Videos</h2>
