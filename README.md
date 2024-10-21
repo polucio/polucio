@@ -7,6 +7,28 @@ Welcome to my GitHub profile! I'm an **IT Support Technician** with a passion fo
 - 🎃 [Spooky Halloween 8-Ball](https://github.com/polucio/Halloween8BallJava): A fun Halloween-themed 8-ball app built in Java.
 - 👾 [Pwnagotchi Wi-Fi Security Project](https://github.com/polucio/pwnagotchi-wifi-security): A Raspberry Pi project for capturing Wi-Fi handshakes using the Pwnagotchi firmware.
 
+## WiCyS SANS Security Training Scholarship
+I'm proud to be participating in the **WiCyS SANS Security Training Scholarship** competition, which focuses on developing cybersecurity skills through hands-on challenges on **TryHackMe**.
+
+- 🌟 **Currently at Tier 2**: Progressing through advanced challenges in the scholarship competition.
+
+## TryHackMe Progress
+I’m actively learning through **TryHackMe**, completing various labs and challenges. Here's a snapshot of my progress:
+
+- Rank: **Top 10%**
+- Completed Rooms: **62**
+- Badges Earned: **10**
+  
+![TryHackMe Progress](https://your-image-url-here)
+
+- Pathways Completed:
+  - 🛡️ **Pre Security** 
+  - 🔓 **Web Fundamentals**
+  - 🕵️ **Jr Penetration Tester**
+  - 🖥️ **Intro to Cybersecurity**
+
+- Check out my full [TryHackMe profile](https://tryhackme.com/p/your-username) for more details!
+
 ## Interests
 - Cybersecurity
 - Ethical Hacking
