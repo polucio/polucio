@@ -1,3 +1,4 @@
+
 # Hi, I'm Porscha! 👋
 
 Welcome to my GitHub profile! I'm an **IT Support Technician** with a passion for learning and exploring the world of **cybersecurity** and **software development**. Here you'll find some of the projects I've worked on and the technologies I'm learning.
@@ -12,22 +13,16 @@ I'm proud to be participating in the **WiCyS SANS Security Training Scholarship*
 
 - 🌟 **Currently at Tier 2**: Progressing through advanced challenges in the scholarship competition.
 
+  ![WiCyS SANS Tier 2 Badge](https://your-image-url-here)
+
 ## TryHackMe Progress
 I’m actively learning through **TryHackMe**, completing various labs and challenges. Here's a snapshot of my progress:
 
 - Rank: **Top 10%**
 - Completed Rooms: **62**
 - Badges Earned: **10**
-  
-![TryHackMe Progress](https://your-image-url-here)
 
-- Pathways Completed:
-  - 🛡️ **Pre Security** 
-  - 🔓 **Web Fundamentals**
-  - 🕵️ **Jr Penetration Tester**
-  - 🖥️ **Intro to Cybersecurity**
-
-- Check out my full [TryHackMe profile](https://tryhackme.com/p/your-username) for more details!
+Check out my full [TryHackMe profile here](https://tryhackme.com/r/p/Plucio).
 
 ## Interests
 - Cybersecurity
