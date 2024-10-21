@@ -13,7 +13,7 @@ I'm proud to be participating in the **WiCyS SANS Security Training Scholarship*
 
 - 🌟 **Currently at Tier 2**: Progressing through advanced challenges in the scholarship competition.
 
-  ![WiCyS SANS Tier 2 Badge](https://your-image-url-here)
+  ![WiCyS SANS Tier 2 Badge](https://github.com/polucio/polucio/blob/main/Tier2Badge.jpg?raw=true)
 
 ## TryHackMe Progress
 I’m actively learning through **TryHackMe**, completing various labs and challenges. Here's a snapshot of my progress:
