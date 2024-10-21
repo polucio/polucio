@@ -1,38 +1,23 @@
-<h1>Hi, I'm Porscha! <br/><a href="https://github.com/polucio"></a> <a href="www.linkedin.com/in/porscha-lucio/">
+# Hi, I'm Porscha! 👋
 
-<h2>👨‍💻 General Projects:</h2>
+Welcome to my GitHub profile! I'm an **IT Support Technician** with a passion for learning and exploring the world of **cybersecurity** and **software development**. Here you'll find some of the projects I've worked on and the technologies I'm learning.
 
-- <b>Python</b>
-  - [Mission Python by Sean McManus](https://github.com/polucio/Mission-Python)
+## Projects
 
-<h2>📺 Popular YouTube Videos</h2>
+- 🎃 [Spooky Halloween 8-Ball](https://github.com/polucio/Halloween8BallJava): A fun Halloween-themed 8-ball app built in Java.
+- 👾 [Pwnagotchi Wi-Fi Security Project](https://github.com/polucio/pwnagotchi-wifi-security): A Raspberry Pi project for capturing Wi-Fi handshakes using the Pwnagotchi firmware.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## Interests
+- Cybersecurity
+- Ethical Hacking
+- Network Security
+- Software Development
 
-<h2> 🤳 Connect with me:</h2>
+## Technologies & Tools
+- Java, Python, Bash
+- Kali Linux, Wireshark, Metasploit
+- Raspberry Pi
+- Git & GitHub
 
-
-[<img align="left" alt="PorschaLucio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: www.linkedin.com/in/porscha-lucio
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+- [LinkedIn](https://linkedin.com/in/porscha-lucio)
