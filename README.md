@@ -5,8 +5,13 @@ Welcome to my GitHub profile! I'm an **IT Support Technician** with a passion fo
 
 ## Projects
 
-- 🎃 [Spooky Halloween 8-Ball](https://github.com/polucio/Halloween8BallJava): A fun Halloween-themed 8-ball app built in Java.
+### Cybersecurity and Networking
+- 🌐 [101Labs-Networking](https://github.com/polucio/101Labs-Networking): A collection of hands-on networking labs showcasing practical configurations with Cisco Packet Tracer.
 - 👾 [Pwnagotchi Wi-Fi Security Project](https://github.com/polucio/pwnagotchi-wifi-security): A Raspberry Pi project for capturing Wi-Fi handshakes using the Pwnagotchi firmware.
+
+### Software Development
+- 🎃 [Spooky Halloween 8-Ball](https://github.com/polucio/Halloween8BallJava): A fun Halloween-themed 8-ball app built in Java.
+
 
 ## WiCyS SANS Security Training Scholarship
 I'm proud to be participating in the **WiCyS SANS Security Training Scholarship** competition, which focuses on developing cybersecurity skills through hands-on challenges on **TryHackMe**.
