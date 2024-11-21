@@ -23,9 +23,10 @@ I'm proud to be participating in the **WiCyS SANS Security Training Scholarship*
 ## TryHackMe Progress
 I’m actively learning through **TryHackMe**, completing various labs and challenges. Here's a snapshot of my progress:
 
-- Rank: **Top 10%**
-- Completed Rooms: **62**
-- Badges Earned: **10**
+- Rank: **Top 5%**
+- Score: **60,805**
+- Completed Rooms: **101**
+- Badges Earned: **14**
 
 Check out my full [TryHackMe profile here](https://tryhackme.com/r/p/Plucio).
 
