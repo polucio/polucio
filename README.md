@@ -1,7 +1,6 @@
-
 # Hi, I'm Porscha! 👋
 
-Welcome to my GitHub profile! I'm an **IT Support Technician** with a passion for learning and exploring the world of **cybersecurity** and **software development**. Here you'll find some of the projects I've worked on and the technologies I'm learning.
+Welcome to my GitHub profile! I'm an **IT Support Technician** with a passion for learning and exploring the world of **cybersecurity**, **networking**, and **software development**. Here you'll find some of the projects I've worked on, certifications I've achieved, and the technologies I'm learning.
 
 ## Projects
 
@@ -12,6 +11,11 @@ Welcome to my GitHub profile! I'm an **IT Support Technician** with a passion fo
 ### Software Development
 - 🎃 [Spooky Halloween 8-Ball](https://github.com/polucio/Halloween8BallJava): A fun Halloween-themed 8-ball app built in Java.
 
+### Certifications
+- 🎓 [Google Certifications](https://github.com/polucio/Google-Certifications): A repository showcasing my achievements in **Google Professional Certifications** on Coursera, including:
+  - **Google Project Management**
+  - **Google Data Analytics**
+  - **Google IT Automation with Python**
 
 ## WiCyS SANS Security Training Scholarship
 I'm proud to be participating in the **WiCyS SANS Security Training Scholarship** competition, which focuses on developing cybersecurity skills through hands-on challenges on **TryHackMe**.
