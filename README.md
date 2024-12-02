@@ -46,14 +46,32 @@ I'm proud to be participating in the **WiCyS SANS Security Training Scholarship*
 ---
 
 ## TryHackMe Progress
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/skyfox66.png" alt="TryHackMe Badge" width="200"/>
+
 I’m actively learning through **TryHackMe**, completing various labs and challenges. Here's a snapshot of my progress:
 
-- Rank: **Top 5%**
-- Score: **60,805**
-- Completed Rooms: **101**
-- Badges Earned: **14**
+- **Rank**: Top 5%  
+- **Score**: 59,529  
+- **Completed Rooms**: 91  
+- **Badges Earned**: 13  
 
-Check out my full [TryHackMe profile here](https://tryhackme.com/r/p/Plucio).
+### Badges Earned
+- **Networking Nerd**: Completing the 'Network Fundamentals' module
+- **Webbed**: Understanding how the World Wide Web works
+- **World Wide Web**: Completing the 'How The Web Works' module
+- **cat linux.txt**: Gaining competence in Linux
+- **Hash Cracker**: Cracking all those hashes
+- **OWASP Top 10**: Understanding every OWASP vulnerability
+- **Metasploitable**: Using Metasploit for exploitation
+- **Linux PrivEsc**: Mastering Linux privilege escalation
+- **Blue**: Exploiting EternalBlue vulnerabilities
+- **Wireshark**: Proficient in Wireshark and packet analysis
+- **Burp'ed**: Completing the Burp Suite module
+- **Intro to Web Hacking**: Completing foundational web hacking labs
+- **Pentesting Principles**: Completing the 'Introduction to Pentesting' module
+
+Check out my full [TryHackMe profile here](https://tryhackme.com/r/skyfox66).
 
 ---
 
@@ -74,4 +92,4 @@ Check out my full [TryHackMe profile here](https://tryhackme.com/r/p/Plucio).
 ---
 
 ## Let's Connect
-- [LinkedIn](https://linkedin.com/in/porscha-lucio)
+- 🌐 [LinkedIn](https://linkedin.com/in/porscha-lucio)
