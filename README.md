@@ -39,9 +39,10 @@ This repository contains my achievements in both **industry-recognized certifica
 ## WiCyS SANS Security Training Scholarship
 I'm proud to be participating in the **WiCyS SANS Security Training Scholarship** competition, which focuses on developing cybersecurity skills through hands-on challenges on **TryHackMe**.
 
-- 🌟 **Currently at Tier 2**: Progressing through advanced challenges in the scholarship competition.
+- 🌟 **Currently at Tier 3**: Advanced to Tier 3 after completing foundational and intermediate challenges.  
+- 🏅 Earned the **SANS GIAC Foundational Cybersecurity Technologies (GFACT)** certification as part of this prestigious program.  
 
-  ![WiCyS SANS Tier 2 Badge](https://github.com/polucio/polucio/blob/main/Tier2Badge.jpg?raw=true)
+  ![WiCyS SANS Tier 3 Badge](https://github.com/polucio/polucio/blob/main/Tier3Badge.jpg?raw=true)
 
 ---
 
