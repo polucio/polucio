@@ -66,7 +66,7 @@ I'm always open to collaboration, especially on projects related to:
 - Cybersecurity in higher education
 - Accessible security workflows for non-technical users
 
-🔗 [LinkedIn](https://www.linkedin.com/in/porschalucio/)  
+🔗 [LinkedIn](www.linkedin.com/in/porscha-lucio)  
 🔗 [Trailhead Profile](https://www.salesforce.com/trailblazer/polucio)
 
 ---
