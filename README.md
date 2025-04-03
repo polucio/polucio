@@ -1,96 +1,74 @@
-# Hi, I'm Porscha! 👋
+# 👋 Hi, I’m Porscha Lucio
 
-Welcome to my GitHub profile! I'm an **IT Support Technician** with a passion for learning and exploring the world of **cybersecurity**, **networking**, and **software development**. Here you'll find some of the projects I've worked on, certifications I've achieved, and the technologies I'm learning.
+Welcome to my GitHub profile! I’m an aspiring **Cybersecurity Specialist** with hands-on experience in IT support, network diagnostics, and cybersecurity foundations. I’m currently pursuing my B.S. in Cybersecurity & Information Assurance at Western Governors University and interning at the Community College of Denver.
 
----
-
-## Projects
-
-### Cybersecurity and Networking
-- 🌐 [101Labs-Networking](https://github.com/polucio/101Labs-Networking): A collection of hands-on networking labs showcasing practical configurations with Cisco Packet Tracer.
-- 👾 [Pwnagotchi Wi-Fi Security Project](https://github.com/polucio/pwnagotchi-wifi-security): A Raspberry Pi project for capturing Wi-Fi handshakes using the Pwnagotchi firmware.
-
-### Software Development
-- 🎃 [Spooky Halloween 8-Ball](https://github.com/polucio/Halloween8BallJava): A fun Halloween-themed 8-ball app built in Java.
+My focus is on **applying AI tools, cloud platforms, and automation** to improve cybersecurity operations and IT infrastructure—especially in **higher education** and **enterprise environments**.
 
 ---
 
-## Certifications
+## 🔐 Cybersecurity & Networking Projects
 
-### [Professional Certifications](https://github.com/polucio/Professional-Certifications)
-This repository contains my achievements in both **industry-recognized certifications** and **professional development certifications**.
+- 🌐 **101Labs-Networking**  
+  Hands-on labs using Cisco Packet Tracer to troubleshoot connectivity and configure networks.
 
-#### Industry Certifications
-- 🛡️ **(ISC)² Certified in Cybersecurity**
-- 🛡️ **CompTIA Security+**
-- 🛡️ **CompTIA IT Fundamentals+**
-- 🛡️ **CompTIA A+**
-- 🛡️ **SANS GIAC Foundational Cybersecurity Technologies (GFACT)**
+- 👾 **Pwnagotchi Wi-Fi Security Project**  
+  Ethical hacking practice using Raspberry Pi and Pwnagotchi firmware to capture Wi-Fi handshakes.
 
-#### Coursera Certifications
-- 🎓 **Google Project Management**
-- 🎓 **Google Data Analytics**
-- 🎓 **Google IT Automation with Python**
-- 🎓 **Wireshark for Beginners: Capture Packets**
-- 🎓 **Analyze Network Traffic with TCPDump**
+- 🔒 **TryHackMe Labs**  
+  Top 5% globally with 91 completed rooms focusing on Linux privilege escalation, Metasploit, and network security.
 
 ---
 
-## WiCyS SANS Security Training Scholarship
-I'm proud to be participating in the **WiCyS SANS Security Training Scholarship** competition, which focuses on developing cybersecurity skills through hands-on challenges on **TryHackMe**.
+## 🤖 AI Integration in Cybersecurity & IT
 
-- 🌟 **Currently at Tier 3**: Advanced to Tier 3 after completing foundational and intermediate challenges.  
-- 🏅 Earned the **SANS GIAC Foundational Cybersecurity Technologies (GFACT)** certification as part of this prestigious program.  
+- 💬 **ChatGPT for IT Workflows**  
+  Experimenting with ChatGPT to automate ticket responses, draft help desk documentation, and assist with security policy templates.
 
-  ![WiCyS SANS Tier 3 Badge](https://github.com/polucio/polucio/blob/main/Tier3Badge.jpg?raw=true)
+- 📊 **Salesforce Einstein Dashboards** *(In Progress)*  
+  Building predictive dashboards and automation flows for potential use in IT incident tracking and student support.
 
----
-
-## TryHackMe Progress
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/skyfox66.png" alt="TryHackMe Badge" width="200"/>
-
-I’m actively learning through **TryHackMe**, completing various labs and challenges. Here's a snapshot of my progress:
-
-- **Rank**: Top 5%  
-- **Score**: 59,529  
-- **Completed Rooms**: 91  
-- **Badges Earned**: 13  
-
-### Badges Earned
-- **Networking Nerd**: Completing the 'Network Fundamentals' module
-- **Webbed**: Understanding how the World Wide Web works
-- **World Wide Web**: Completing the 'How The Web Works' module
-- **cat linux.txt**: Gaining competence in Linux
-- **Hash Cracker**: Cracking all those hashes
-- **OWASP Top 10**: Understanding every OWASP vulnerability
-- **Metasploitable**: Using Metasploit for exploitation
-- **Linux PrivEsc**: Mastering Linux privilege escalation
-- **Blue**: Exploiting EternalBlue vulnerabilities
-- **Wireshark**: Proficient in Wireshark and packet analysis
-- **Burp'ed**: Completing the Burp Suite module
-- **Intro to Web Hacking**: Completing foundational web hacking labs
-- **Pentesting Principles**: Completing the 'Introduction to Pentesting' module
-
-Check out my full [TryHackMe profile here](https://tryhackme.com/r/skyfox66).
+- 🔍 **Anomaly Detection Tools (Research)**  
+  Exploring machine learning-based tools for identifying unusual network activity and supporting proactive threat detection.
 
 ---
 
-## Interests
-- Cybersecurity
-- Ethical Hacking
-- Network Security
-- Software Development
+## 📜 Certifications
+
+### Industry Certifications
+- 🛡️ (ISC)² Certified in Cybersecurity (CC)  
+- 🛡️ CompTIA Security+  
+- 🛡️ CompTIA Network+  
+- 🛡️ CompTIA A+  
+- 🛡️ GIAC GFACT  
+- 📘 ITIL 4 Foundation
+
+### Professional Development
+- 🎓 Google IT Automation with Python  
+- 🎓 Google Data Analytics  
+- 🎓 Google Project Management  
+- 🎓 LinkedIn Learning: *Generative AI for IT Professionals*, *AI for Cybersecurity*, *Prompt Engineering for Non-Programmers*
 
 ---
 
-## Technologies & Tools
-- Java, Python, Bash
-- Kali Linux, Wireshark, Metasploit
-- Raspberry Pi
-- Git & GitHub
+## 🎯 Current Goals
+
+- Completing the **Salesforce Certified Administrator** credential  
+- Earning **SSCP** and **Linux Essentials** certifications  
+- Contributing to AI-integrated cybersecurity tools and documentation in higher education IT settings  
+- Building automation tools that bridge security and accessibility for end users
 
 ---
 
-## Let's Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/porscha-lucio)
+## 🤝 Let’s Connect!
+
+I'm always open to collaboration, especially on projects related to:
+- AI-powered IT automation
+- Cybersecurity in higher education
+- Accessible security workflows for non-technical users
+
+🔗 [LinkedIn](https://www.linkedin.com/in/porschalucio/)  
+🔗 [Trailhead Profile](https://trailblazer.me/id/porscha)
+
+---
+
+*“Secure systems. Smart tools. Accessible technology.”*
