@@ -67,7 +67,7 @@ I'm always open to collaboration, especially on projects related to:
 - Accessible security workflows for non-technical users
 
 🔗 [LinkedIn](https://www.linkedin.com/in/porschalucio/)  
-🔗 [Trailhead Profile](https://trailblazer.me/id/porscha)
+🔗 [Trailhead Profile](https://www.salesforce.com/trailblazer/polucio)
 
 ---
 
