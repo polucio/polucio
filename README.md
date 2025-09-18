@@ -1,74 +1,69 @@
-# 👋 Hi, I’m Porscha Lucio
+👋 Hi, I’m Porscha Lucio
 
-Welcome to my GitHub profile! I’m an aspiring **Cybersecurity Specialist** with hands-on experience in IT support, network diagnostics, and cybersecurity foundations. I’m currently pursuing my B.S. in Cybersecurity & Information Assurance at Western Governors University and interning at the Community College of Denver.
+I’m a Cybersecurity Specialist-in-Training and future IT leader, blending hands-on help desk work, network defense projects, and AI-powered research. My focus is on building secure, ethical, and accessible technology that empowers both IT teams and end users.
 
-My focus is on **applying AI tools, cloud platforms, and automation** to improve cybersecurity operations and IT infrastructure—especially in **higher education** and **enterprise environments**.
+🚀 Featured Projects
 
----
+🛰 Secure-Pi: AI-Powered Cybersecurity Testbed (WGU Capstone / CCD AI Committee Presentation)
+Raspberry Pi 5 with Hailo-8L AI accelerator, acting as an AI-driven defender in a multi-device attack-defense lab. Includes honeypot logging (Pi 3B), attacker simulation (Pi Zero WH / Pwnagotchi), and real-time AI detection with dashboards.
 
-## 🔐 Cybersecurity & Networking Projects
+👾 Pwnagotchi Rebuild & Expansion
+Advanced setup on Raspberry Pi Zero WH with Waveshare V3 e-ink display, DNS/SSH integration, and extended logging. Forms the attacker component (“Halley”) in Secure-Pi.
 
-- 🌐 **101Labs-Networking**  
-  Hands-on labs using Cisco Packet Tracer to troubleshoot connectivity and configure networks.
+🌐 101Labs Networking
+Cisco Packet Tracer labs for connectivity troubleshooting, secure configurations, and defense-in-depth exploration.
 
-- 👾 **Pwnagotchi Wi-Fi Security Project**  
-  Ethical hacking practice using Raspberry Pi and Pwnagotchi firmware to capture Wi-Fi handshakes.
+🔒 TryHackMe Progress
+Top 5% globally, with focus on Linux privilege escalation, log analysis, IDS/IPS practice, and simulated SOC workflows.
 
-- 🔒 **TryHackMe Labs**  
-  Top 5% globally with 91 completed rooms focusing on Linux privilege escalation, Metasploit, and network security.
+🤖 AI & Automation in IT
 
----
+📊 Data Dashboards – Experimenting with Grafana, Plotly, and Salesforce Einstein for security & IT metrics.
 
-## 🤖 AI Integration in Cybersecurity & IT
+🔍 Threat Detection Research – Exploring TensorFlow Lite + Hailo for anomaly detection in live traffic.
 
-- 💬 **ChatGPT for IT Workflows**  
-  Experimenting with ChatGPT to automate ticket responses, draft help desk documentation, and assist with security policy templates.
+🧩 Self-Contained AI Assistant (Pi 5 project) – Long-term goal of building a personal AI companion device that integrates with your lab and studies.
 
-- 📊 **Salesforce Einstein Dashboards** *(In Progress)*  
-  Building predictive dashboards and automation flows for potential use in IT incident tracking and student support.
+📜 Certifications
+Industry Certifications
 
-- 🔍 **Anomaly Detection Tools (Research)**  
-  Exploring machine learning-based tools for identifying unusual network activity and supporting proactive threat detection.
+🛡️ (ISC)² Certified in Cybersecurity (CC)
 
----
+🛡️ CompTIA Security+
 
-## 📜 Certifications
+🛡️ CompTIA Network+
 
-### Industry Certifications
-- 🛡️ (ISC)² Certified in Cybersecurity (CC)  
-- 🛡️ CompTIA Security+  
-- 🛡️ CompTIA Network+  
-- 🛡️ CompTIA A+  
-- 🛡️ GIAC GFACT  
-- 📘 ITIL 4 Foundation
+🛡️ CompTIA A+
 
-### Professional Development
-- 🎓 Google IT Automation with Python  
-- 🎓 Google Data Analytics  
-- 🎓 Google Project Management  
-- 🎓 LinkedIn Learning: *Generative AI for IT Professionals*, *AI for Cybersecurity*, *Prompt Engineering for Non-Programmers*
+🛡️ GIAC GFACT
 
----
+📘 ITIL 4 Foundation
 
-## 🎯 Current Goals
+🐧 Linux Essentials
 
-- Completing the **Salesforce Certified Administrator** credential  
-- Earning **SSCP** and **Linux Essentials** certifications  
-- Contributing to AI-integrated cybersecurity tools and documentation in higher education IT settings  
-- Building automation tools that bridge security and accessibility for end users
+Professional Development
 
----
+🎓 Google IT Automation with Python
 
-## 🤝 Let’s Connect!
+🎓 Google Data Analytics
 
-I'm always open to collaboration, especially on projects related to:
-- AI-powered IT automation
-- Cybersecurity in higher education
-- Accessible security workflows for non-technical users
+🎓 Google Project Management
 
-🔗 [LinkedIn](https://www.linkedin.com/in/porscha-lucio/)  
-🔗 [Trailhead Profile](https://www.salesforce.com/trailblazer/polucio)
+🎓 LinkedIn Learning: Generative AI for IT Professionals, AI for Cybersecurity, Prompt Engineering for Non-Programmers
 
----
+🎓 Udemy: Windows 11 Desktop Administration with Server & Cloud Support
 
-*“Secure systems. Smart tools. Accessible technology.”*
+🎯 Current Goals
+
+Build and present Secure-Pi for WGU capstone
+
+Complete CompTIA PenTest+ and CySA+
+
+Develop accessible AI-powered security tools for higher education IT
+
+
+🤝 Let’s Connect
+
+🔗 LinkedIn
+
+🔗 Trailhead
