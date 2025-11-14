@@ -60,8 +60,7 @@ Building early-stage security automation tools:
 
 ## 📜 Certifications
 
-- 🛡 **CompTIA CySA+**  
-- 🛡 **(ISC)² Certified in Cybersecurity (CC)**  
+- 🛡 **CompTIA CySA+**   
 - 🛡 **CompTIA Security+**  
 - 🛡 **CompTIA Network+**  
 - 🛡 **CompTIA A+**  
