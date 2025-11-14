@@ -108,6 +108,11 @@ If you're interested in AI, cybersecurity, IT leadership, or Raspberry Pi engine
 
 🤝 Let’s Connect
 
-🔗 LinkedIn
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Porscha%20Lucio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/porscha-lucio)
 
-🔗 Trailhead
+
+<a href="https://www.salesforce.com/trailblazer/polucio" target="_blank">
+  <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce Trailhead Badge"/>
+</a>
+
