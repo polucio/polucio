@@ -5,7 +5,8 @@ I blend help desk experience, cybersecurity engineering projects, AI research, a
 Build technology that protects people — not frustrates them.
 
 🏆 TryHackMe Progress
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1640835" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/skyfox66.png)](https://tryhackme.com/p/skyfox66)
+
 
 
 
