@@ -1,3 +1,7 @@
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1640835" style='border:none;'></iframe>
+
+
+
 👋 Hi, I’m Porscha Lucio
 
 I’m a Cybersecurity Specialist-in-Training and future IT leader, blending hands-on help desk work, network defense projects, and AI-powered research. My focus is on building secure, ethical, and accessible technology that empowers both IT teams and end users.
