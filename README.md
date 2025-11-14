@@ -1,118 +1,88 @@
-Cybersecurity Specialist-in-Training • Future IT Leader • Hands-on Builder of Secure, Ethical, and Accessible Technology
+# 👋 Hi, I’m **Porscha Lucio (skyfox66)**  
+Cybersecurity Specialist-in-Training • Future IT Leader  
+Hands-on builder of secure, ethical, and accessible technology.
 
-I blend help desk experience, cybersecurity engineering projects, AI research, and defensive lab work into a single mission:
+I combine **help desk experience**, **cybersecurity engineering**, **AI experimentation**, and **hands-on labs** into a single mission:
 
-Build technology that protects people — not frustrates them.
+> **Build technology that protects people — not frustrates them.**
 
-🏆 TryHackMe Progress
+---
+
+## 🏆 TryHackMe Progress  
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/skyfox66.png)](https://tryhackme.com/p/skyfox66)
 
+Top **5% globally** — focusing on:
+- Linux privilege escalation  
+- SOC & IR simulations  
+- Network enumeration & exploitation  
+- IDS/IPS tuning & log analysis  
+- Offensive + defensive workflow balance (PenTest+ path)
 
+---
 
+## 🚀 Featured Projects
 
+### 🛰 **Secure-Pi — AI-Powered Cybersecurity Testbed**  
+*WGU Capstone • CCD AI Committee Presentation*
 
-Top 5% globally, focusing on:
+A multi-device attack-defense cyber range:
+- **Raspberry Pi 5 + Hailo-8L** (AI autonomous defender)
+- **Pi Zero WH (Pwnagotchi)** — attacker (“Halley”)
+- **Pi 3B Honeypot** — log & traffic capture node
+- Suricata IDS • AI anomaly detection • Grafana dashboards  
+- Designed as a **portable, affordable cyber range**
 
-Linux privilege escalation
+---
 
-Incident response & SOC simulations
+### 👾 **Pwnagotchi Rebuild & Expansion**
+- Pi Zero WH + Waveshare V3 e-ink display  
+- SSH, DNS, USB passthrough  
+- Extended handshake logging  
+- Fully integrated into Secure-Pi as the attacker node
 
-Network enumeration & exploitation
+---
 
-Log analysis, IDS/IPS tuning, and SIEM workflows
+### 🌐 **101Labs Networking**
+- Packet Tracer labs  
+- Subnetting & routing  
+- Secure switch/router configs  
+- Small-network defense-in-depth practice  
 
-Offensive + defensive technique balancing (Pentest+ track)
+---
 
-🚀 Featured Projects
-🛰 Secure-Pi — AI-Powered Cybersecurity Testbed
+## 🤖 AI & Automation in IT
+Building early-stage security automation tools:
+- Grafana / Plotly dashboards  
+- TensorFlow Lite + Hailo anomaly detection  
+- Prototype **Self-Contained AI Assistant** (Pi 5 project)
 
-WGU Capstone • CCD AI Committee Presentation
+---
 
-A multi-Raspberry Pi, attack-defense cyber range built from scratch:
+## 📜 Certifications
 
-Raspberry Pi 5 with Hailo-8L AI accelerator as an autonomous defender
+- 🛡 **CompTIA CySA+**  
+- 🛡 **(ISC)² Certified in Cybersecurity (CC)**  
+- 🛡 **CompTIA Security+**  
+- 🛡 **CompTIA Network+**  
+- 🛡 **CompTIA A+**  
+- 🛡 **GIAC GFACT**  
+- 📘 **ITIL 4 Foundation**  
+- 🐧 **Linux Essentials**
 
-Pi Zero WH (Pwnagotchi) acting as the attacker ("Halley")
+---
 
-Pi 3B Honeypot for log/traffic capture
+## 🎯 Current Focus
+- CompTIA **PenTest+**  
+- Enumeration + exploitation mastery  
+- SIEM, detection engineering, log enrichment  
 
-Suricata, AI anomaly detection, dashboards, and adversarial simulation
+---
 
-Designed as a low-cost, portable cyber range for education & research
+## 🌐 Connect With Me
 
-👾 Pwnagotchi Rebuild & Expansion
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Porscha%20Lucio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/porscha-lucio)
+[![Salesforce Trailhead](https://img.shields.io/badge/Salesforce%20Trailhead-Porscha%20Lucio-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/polucio)
 
-Advanced rebuild of a Pi Zero WH Pwnagotchi:
+---
 
-Waveshare V3 e-ink display
-
-USB DNS + SSH passthrough
-
-WinSCP workflow
-
-Extended handshake logging + plugin tuning
-
-Integrated into Secure-Pi as the “attacker” node
-
-🌐 101Labs Networking Projects
-
-Hands-on networking practice including:
-
-Cisco Packet Tracer labs
-
-Subnetting & routing fundamentals
-
-Secure switch/router configuration
-
-Defense-in-depth implementation on small networks
-
-🤖 AI & Automation in IT
-
-Experimenting with automation, analytics, and security-focused AI:
-
-Grafana & Plotly dashboards for IT metrics
-
-TensorFlow Lite + Hailo for live anomaly detection
-
-Early-stage Self-Contained AI Assistant concept for local inference & study support
-
-📜 Certifications
-
-Industry Certifications:
-
-🛡️ (ISC)² Certified in Cybersecurity (CC)
-
-🛡️ CompTIA CySA+
-
-🛡️ CompTIA Security+
-
-🛡️ CompTIA Network+
-
-🛡️ CompTIA A+
-
-🛡️ GIAC GFACT
-
-📘 ITIL 4 Foundation
-
-🐧 Linux Essentials
-
-🎯 Current Focus
-
-CompTIA PenTest+ preparation
-
-Advanced enumeration & exploitation practice
-
-SIEM, detection engineering, and log enrichment
-
-If you're interested in AI, cybersecurity, IT leadership, or Raspberry Pi engineering, feel free to connect!
-
-🤝 Let’s Connect
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Porscha%20Lucio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/porscha-lucio)
-
-
-<a href="https://www.salesforce.com/trailblazer/polucio" target="_blank">
-  <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce Trailhead Badge"/>
-</a>
-
+If you're interested in **AI, cybersecurity, IT leadership, or Raspberry Pi engineering**, feel free to connect!
